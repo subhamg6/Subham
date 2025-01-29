@@ -32,7 +32,7 @@ Hey there! I'm Subham Gupta, a third-year Computer Science student at AIMS INSTI
 
 - Email: subham200308@gmail.com
 - LinkedIn: www.linkedin.com/in/subham-gupta-aa788224b
-- PortFolio: https://subhamg6.github.io/subhamg6/
+- PortFolio: https://subhamg6.github.io/Portfolio/
 
 ### Feedback Welcome :
 - I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
